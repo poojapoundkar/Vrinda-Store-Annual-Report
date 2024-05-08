@@ -6,9 +6,13 @@ Vrinda Store aims to create an annual sales report for 2022 to gain insights int
 ## 👉 Steps Followed:
 
 🔍 Data Extraction-Data was extracted in form of Excel(.XLSX) sheet.
+
 🖌 Data cleaning- This will ensure accuracy and reliability of raw data. Inconsistent values and NULL entries were fixed.
+
 🔢 Data Processing: Two columns ‘Age Group’ and ‘Month’ were added for deeper analysis of dataset.
+
 📊 Data analysis: Pivot Tables were created for uncovering patterns and trends.
+
 📊 Data Visualization: Various Charts, graphs and slicers were created for visualizing the key insights.
 
 ## 👉 Sample Insights:
