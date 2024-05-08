@@ -26,4 +26,5 @@ Vrinda Store aims to create an annual sales report for 2022 to gain insights int
 
 
 ## 👉 Conclusion:
-To boost sales in 2023, target women customers aged between 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. Utilize advertising and offers on Amazon, Flipkart, and Myntra platforms to attract these customers effectively.
+Target women customers of age group (30-49) years living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/coupons/offers available on Amazon, Myntra and Flipkart.
+
