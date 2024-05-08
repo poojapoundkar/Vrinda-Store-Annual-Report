@@ -15,7 +15,7 @@ Vrinda Store aims to create an annual sales report for 2022 to gain insights int
 
 📊 Data Visualization: Various Charts, graphs and slicers were created for visualizing the key insights.
 
-## 👉 Sample Insights:
+## 👉 Insights:
 📌 Women account for approximately 65% of purchases.
 
 📌 The top three states in terms of sales are Maharashtra, Karnataka, and Uttar Pradesh, contributing around 35%.
@@ -25,5 +25,5 @@ Vrinda Store aims to create an annual sales report for 2022 to gain insights int
 📌 Amazon, Flipkart, and Myntra are the primary sales channels, contributing around 80%.
 
 
-## Conclusion:
+## 👉 Conclusion:
 To boost sales in 2023, target women customers aged between 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. Utilize advertising and offers on Amazon, Flipkart, and Myntra platforms to attract these customers effectively.
